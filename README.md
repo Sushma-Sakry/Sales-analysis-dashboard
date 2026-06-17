@@ -116,15 +116,15 @@ python Python/import_csv_to_mysql.py
 
 ---
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
 ### Sales Overview
 
-![Sales Overview](Screenshots/sales_overview.png)
+![Sales Overview](screenshots/sales_overview.png)
 
 ### Detailed Analysis
 
-![Detailed Analysis](Screenshots/detailed_analysis.png)
+![Detailed Analysis](screenshots/detailed_analysis.png)
 
 ---
 
