@@ -41,6 +41,28 @@ Sales-Analysis-Dashboard/
 
 ---
 
+## 🚀 How to Run
+
+1. Install the required Python libraries:
+
+```bash
+pip install pandas sqlalchemy pymysql
+```
+
+2. Update the MySQL credentials in `Python/import_csv_to_mysql.py`.
+
+3. Ensure MySQL Server is running and create a database named `sales_analysis`.
+
+4. Run:
+
+```bash
+python Python/import_csv_to_mysql.py
+```
+
+5. Open `Sales_Analysis_Dashboard.pbix` in Power BI Desktop.
+
+---
+
 ## 📈 Dashboard Features
 
 ### Sales Overview
