@@ -116,9 +116,15 @@ python Python/import_csv_to_mysql.py
 
 ---
 
-## Screenshots
-![Sales overview](screenshots/Sales overview.png)
-screenshots/Detailed analysis.png
+## Dashboard Preview
+
+### Sales Overview
+
+![Sales Overview](Screenshots/sales_overview.png)
+
+### Detailed Analysis
+
+![Detailed Analysis](Screenshots/detailed_analysis.png)
 
 ---
 
