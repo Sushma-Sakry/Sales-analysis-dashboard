@@ -117,7 +117,7 @@ python Python/import_csv_to_mysql.py
 ---
 
 ## Screenshots
-![Sales overview](screenshots/Sales_overview.png)
+![Sales overview](screenshots/Sales overview.png)
 screenshots/Detailed analysis.png
 
 ---
