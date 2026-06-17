@@ -19,22 +19,25 @@ The dashboard provides an interactive view of key performance indicators (KPIs) 
 
 ## 📂 Project Structure
 
-```
-Sales-Analysis-Dashboard/
+```text
+sales-analysis-dashboard/
 │
-├── Dashboard/
+├── dashboard/
 │   └── Sales_Analysis.pbix
 │
-├── Dataset/
+├── dataset/
 │   └── sales_data.csv
 │
-├── SQL/
-│   ├── sql_queries.sql
-│   └── sql_practice.sql
+├── python/
+│   └── import_csv_to_mysql.py
 │
-├── Screenshots/
+├── screenshots/
 │   ├── sales_overview.png
 │   └── detailed_analysis.png
+│
+├── sql/
+│   ├── sql_queries.sql
+│   └── sql_practice.sql
 │
 └── README.md
 ```
