@@ -141,4 +141,4 @@ python Python/import_csv_to_mysql.py
 
 **Sushma Sakry**
 
-Created as a portfolio project to demonstrate SQL and Power BI skills.
+Developed as an end-to-end portfolio project to demonstrate practical skills in MySQL, SQL, Python, and Power BI for business data analysis and interactive dashboard development.
