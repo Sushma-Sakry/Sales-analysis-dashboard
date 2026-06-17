@@ -7,8 +7,8 @@ import os
 # MySQL Connection Details
 # ============================================
 
-username = "your_username"   # Replace these values with your own MySQL credentials.
-password = "your_password"   # Replace these values with your own MySQL credentials.
+username = "your_username"   # Replace these placeholders with your local MySQL credentials before running.
+password = "your_password"   # Replace these placeholders with your local MySQL credentials before running.
 host = "localhost"
 port = 3306
 database = "sales_analysis"
